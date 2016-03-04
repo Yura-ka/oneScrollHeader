@@ -1,0 +1,4 @@
+$(function () {
+    $('.header-home').oneScrollHeader();
+
+})
