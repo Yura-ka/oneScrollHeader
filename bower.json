@@ -1,0 +1,29 @@
+{
+  "name": "oneScrollHeader",
+  "homepage": "https://github.com/Yura-ka/oneScrollHeader",
+  "authors": [
+    "Yury Karpov yura.karpov@front-blog.ru"
+  ],
+  "description": "Header the entire height of the screen, scrolling or touch move causes smooth scrolling to the end caps (beginning of content)",
+  "main": "dist/jquery.oneScrollHeader.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "onescroll",
+    "scroll",
+    "page",
+    "header",
+    "full",
+    "screen"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
